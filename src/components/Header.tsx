@@ -48,11 +48,11 @@ export const Header = () => {
                 <div className="flex gap-2">
                     {/* buttom */}
                     <div className="flex items-center gap-2 lg:gap-4">
-                        <button className="text-sm lg:text-base text-white bg-[#1C423C] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
-                            Sign in
-                        </button>
-                        <button className="text-sm lg:text-base text-[#1C423C] bg-[#FBEEAF] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
+                        <button className="hidden sm:block text-sm lg:text-base text-white bg-[#1C423C] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
                             Contact us
+                        </button>
+                        <button className=" text-sm lg:text-base text-[#1C423C] bg-[#FBEEAF] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
+                            Sign in
                         </button>
                     </div>
                 </div>
