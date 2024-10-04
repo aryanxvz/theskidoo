@@ -14,7 +14,7 @@ export const HeroPage = () => {
                 </h1>
                 <div className="text-lg font-medium">
                     <h6>
-                        Monthly access, weekly 'spritz'.
+                        Monthly access, weekly &apos;spritz&apos;.
                     </h6>
                     <h6>
                         No requirement headaches, only pure results.
