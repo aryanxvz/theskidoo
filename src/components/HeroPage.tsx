@@ -6,17 +6,17 @@ export const HeroPage = () => {
         <div>
             <div className="flex flex-col justify-center items-center text-center bg-[#FBEEAF] text-[#1C423C] pt-32 2xl:pt-40">
 
-                <h3 className="text-lg font-semibold">
+                <h3 className="text-lg font-semibold mx-16">
                     PURE DEVJUICE - NO ADDITIVES, JUST EXCELLENCE
                 </h3>
-                <h1 className="text-6xl sm:text-7xl lg:text-8xl font-black mx-10 lg:mx-20 2xl:mx-60 my-10">
+                <h1 className="text-5xl sm:text-7xl lg:text-8xl font-black mx-auto lg:mx-20 2xl:mx-60 my-10">
                     QUENCH YOUR DEVELOPMEMNT THIRST WITH DEVJUICE.
                 </h1>
                 <div className="text-lg font-medium">
                     <h6>
                         Monthly access, weekly &apos;spritz&apos;.
                     </h6>
-                    <h6>
+                    <h6 className="mx-10">
                         No requirement headaches, only pure results.
                     </h6>
                 </div>
