@@ -51,7 +51,7 @@ export const Header = () => {
                         <button className="hidden sm:block text-sm lg:text-base text-white bg-[#1C423C] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
                             Contact us
                         </button>
-                        <button className=" text-sm lg:text-base text-[#1C423C] bg-[#FBEEAF] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
+                        <button className=" text-sm lg:text-base text-[#1C423C] bg-[#FFF9E9] border border-[#1C423C] hover:scale-105 font-medium rounded-full px-3 lg:px-4 py-1 lg:py-[.25em] transition-all">
                             Sign in
                         </button>
                     </div>
